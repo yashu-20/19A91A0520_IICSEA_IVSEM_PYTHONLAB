@@ -5,12 +5,12 @@
 >>> type(num)
 <class 'int'>
 >>> a = 20
->>> b = 30
+>>> b = 40
 >>> 
 >>> result = a+b
 >>> 
 >>> print(result)
-50
+60
 >>> 
 >>> str1 = 'Hello World'
 >>> 
