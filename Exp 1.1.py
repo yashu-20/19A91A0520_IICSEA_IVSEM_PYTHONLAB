@@ -1,16 +1,16 @@
 # Exp 1.1) Running Instructions in interactive interepreter and a Python script
->>> num = 24
+>>> num = 20
 >>> print(num)
-24
+20
 >>> type(num)
 <class 'int'>
->>> a = 24
+>>> a = 20
 >>> b = 30
 >>> 
 >>> result = a+b
 >>> 
 >>> print(result)
-54
+50
 >>> 
 >>> str1 = 'Hello World'
 >>> 
